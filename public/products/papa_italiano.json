@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Lasagna alla Bolognese",
+        "price": "PHP 350.00",
+        "image": "https://www.maricruzavalos.com/wp-content/uploads/2019/05/italian-lasagna-alla-bolognese.jpg"
+    },
+    {
+        "name": "Pizza Margherita",
+        "price": "PHP 280.00",
+        "image": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2023/07/margherita-pizza-recipe.jpg"
+    },
+    {
+        "name": "Spaghetti Carbonara",
+        "price": "PHP 300.00",
+        "image": "https://s23209.pcdn.co/wp-content/uploads/2014/03/IMG_2622edit.jpg"
+    },
+    {
+        "name": "Risotto ai Funghi",
+        "price": "PHP 330.00",
+        "image": "https://www.carluccios.com/cdn/shop/articles/MushroomRisottoBannerV2-aspect-ratio-12x16.jpg"
+    },
+    {
+        "name": "Gnocchi al Pesto",
+        "price": "PHP 290.00",
+        "image": "https://www.deliciousmagazine.co.uk/wp-content/uploads/2018/07/861060-1-eng-GB_gnocchi-al-pesto.jpg"
+    },
+    {
+        "name": "Pollo alla Parmigiana",
+        "price": "PHP 360.00",
+        "image": "https://www.recipetineats.com/uploads/2020/09/Chicken-Parmigiana_7.jpg"
+    },
+    {
+        "name": "Bruschetta al Pomodoro",
+        "price": "PHP 150.00",
+        "image": "https://www.sprinklesandsprouts.com/wp-content/uploads/2020/04/italian-bruschetta-4.jpg"
+    },
+    {
+        "name": "Tiramisu Classico",
+        "price": "PHP 200.00",
+        "image": "https://galbanicheese.com/wp-content/uploads/2021/02/Tiramisu-Classico-72DPI.jpg"
+    },
+    {
+        "name": "Panna Cotta alla Vaniglia",
+        "price": "PHP 180.00",
+        "image": "https://live.staticflickr.com/8290/7597598922_fec64de834_z.jpg"
+    },
+    {
+        "name": "Minestrone alla Milanese",
+        "price": "PHP 250.00",
+        "image": "https://www.gotowaniezestylem.pl/image/recipe/minestrone-alla-milanese-87-3.jpg"
+    }
+]

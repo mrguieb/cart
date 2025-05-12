@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Sisig Capampangan",
+        "price": "PHP 320.00",
+        "image": "https://www.kawalingpinoy.com/wp-content/uploads/2018/12/sisig-2.jpg"
+    },
+    {
+        "name": "Pork Adobo",
+        "price": "PHP 150.00",
+        "image": "https://www.wokandskillet.com/wp-content/uploads/2022/02/pork-belly-adobo-3.jpg"
+    },
+    {
+        "name": "Chicken Inasal",
+        "price": "PHP 180.00",
+        "image": "https://www.kawalingpinoy.com/wp-content/uploads/2020/06/authentic-chicken-inasal-8.jpg"
+    },
+    {
+        "name": "Lechon belly Kare-Kare",
+        "price": "PHP 250.00",
+        "image": "https://foodthinkers.com.ph/wp-content/uploads/2021/03/P022321101323_1-scaled.jpg"
+    },
+    {
+        "name": "Beef Caldereta",
+        "price": "PHP 240.00",
+        "image": "https://www.kawalingpinoy.com/wp-content/uploads/2019/04/spicy-beef-caldereta-2.jpg"
+    },
+    {
+        "name": "Laing",
+        "price": "PHP 130.00",
+        "image": "https://www.kawalingpinoy.com/wp-content/uploads/2023/03/laing-7.jpg"
+    },
+    {
+        "name": "Sinigang na Baboy",
+        "price": "PHP 200.00",
+        "image": "https://katunyings.com/cdn/shop/files/SinigangnaBaboy_800x.png?v=1730186730"
+    },
+    {
+        "name": "Tosilog",
+        "price": "PHP 120.00",
+        "image": "https://i.pinimg.com/736x/b2/72/d9/b272d9f252decbbf9f5fb366c414c258.jpg"
+    },
+    {
+        "name": "Bangus Sisig",
+        "price": "PHP 210.00",
+        "image": "https://www.kawalingpinoy.com/wp-content/uploads/2017/03/sisig-bangus-2.jpg"
+    },
+    {
+        "name": "Lumpiang Shanghai",
+        "price": "PHP 100.00",
+        "image": "https://www.simplyrecipes.com/thmb/f8sx2WcWnh8b7kGmCalTzEhVADc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Lumpia-Shanghai-LEAD-3-a9e6aec38b5647b0ac44890d974d288a.jpg"
+    }
+]

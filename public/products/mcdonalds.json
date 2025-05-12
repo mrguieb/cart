@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Big Mac",
+    "price": "PHP 182.00",
+    "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202302_0005-999_BigMac_1564x1564-1?wid=1000&hei=1000&dpr=off"
+  },
+  {
+    "name": "Cheeseburger",
+    "price": "PHP 82.00",
+    "image": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_202302_0003-999_CheeseburgerAlt_1564x1564?wid=1000&hei=1000&dpr=off"
+  },
+  {
+    "name": "McChicken",
+    "price": "PHP 120.00",
+    "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_4314-999_McChicken_McValue_1564x1564:nutrition-calculator-tile"
+  },
+  {
+    "name": "1-pc Chicken McDo with Rice",
+    "price": "PHP 135.00",
+    "image": "https://mcdomenu.ph/wp-content/uploads/2024/09/1pc-Chicken-McDo-with-Rice.webp"
+  },
+  {
+    "name": "6-pc Chicken McNuggets",
+    "price": "PHP 120.00",
+    "image": "https://mcdomenu.ph/wp-content/uploads/2024/11/6-pc.-Chicken-McNuggets.webp"
+  },
+  {
+    "name": "Fries (Medium)",
+    "price": "PHP 75.00",
+    "image": "https://mcdomenu.ph/wp-content/uploads/2024/11/Fries-1.webp"
+  },
+  {
+    "name": "Sundae (Chocolate)",
+    "price": "PHP 49.00",
+    "image": "https://mcdomenu.ph/wp-content/uploads/2024/11/Hot-Fudge-Sundae.webp"
+  },
+  {
+    "name": "Apple Pie",
+    "price": "PHP 45.00",
+    "image": "https://mcdomenu.ph/wp-content/uploads/2024/11/Apple-Pie.webp"
+  },
+  {
+    "name": "Coke Float",
+    "price": "PHP 55.00",
+    "image": "https://mcdomenu.ph/wp-content/uploads/2024/11/Mccaffe-Coffe-float.webp"
+  },
+  {
+    "name": "McSpaghetti",
+    "price": "PHP 59.00",
+    "image": "https://mcdomenu.ph/wp-content/uploads/2024/06/McSpaghetti-Platter.webp"
+  }
+]
